@@ -1,0 +1,13 @@
+d:war/
+d:data
+t:data/BlackArial30.fnt
+i:data/BlackArial30.png
+t:data/BlackDigit45.fnt
+i:data/BlackDigit45.png
+i:data/blackrec.png
+i:data/emptycell.png
+i:data/filledcell.png
+i:data/libgdx.png
+i:data/verticalline.png
+t:data/WhiteArial40.fnt
+i:data/WhiteArial40.png
